@@ -137,7 +137,8 @@ The objective of ClimateScope is to analyze and visually represent global weathe
 - **Deliverable:** Fully tested and stable interactive dashboard, and a comprehensive final project report outlining methodology, visualizations, and key insights.  
 - **Success Criteria:** The dashboard is robust and bug-free, meeting all defined objectives. The project report clearly articulates findings and the project process.
 
-- Deployment link: https://weatherapp-ahsabg4uzaqoptqzyzfpgr.streamlit.app/
+ **Deployment link:**
+-  https://weatherapp-ahsabg4uzaqoptqzyzfpgr.streamlit.app/
 
 ---
 
