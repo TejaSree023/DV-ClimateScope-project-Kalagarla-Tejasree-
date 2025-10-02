@@ -1,0 +1,21 @@
+ Interactive Weather Dashboard 🌍
+
+This is a Streamlit dashboard using Plotly for visualizing weather data.
+
+~How to Run
+
+1. "Unzip the folder" containing(Milestone 3&4):
+   - `app.py`
+   - `weather_filled.csv`
+   - `requirements.txt`
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+3. Run the app:
+
+streamlit run app.py
+
+4.Open in browser when Streamlit shows the local URL (usually http://localhost:8501).
